@@ -35,6 +35,31 @@ https://github.com/user-attachments/assets/8cb4cec7-ea5d-420c-b424-9ac9a0675ec2
 ## Profile, Settings, and Logout
 https://github.com/user-attachments/assets/fad4a218-ba28-4583-9fd1-ab39f9a7ffe3
 
-
 <!-- all processes, create new process, view process -->
+## Process Part 1
+https://github.com/user-attachments/assets/e35ce438-5f4b-41f3-ad41-c17f67adc7f4
+
+## Process Part 2
+https://github.com/user-attachments/assets/f7ad00f5-ca28-4bb7-8c7b-b8a9a1428ce9
+
+## Process Part 3
+https://github.com/user-attachments/assets/77bed2a6-df98-4f5e-bbbf-bc06befb7e8f
+
 <!-- patients -->
+## Patients Part 1
+https://github.com/user-attachments/assets/8138926f-26ab-4e18-99e6-cb3005dfb4ac
+
+## Patients Part 2
+https://github.com/user-attachments/assets/3bc4a499-8200-40bb-94e7-2375cf0e138b
+
+## Patients Part 3
+https://github.com/user-attachments/assets/fad94c17-82d1-43ee-b879-aad8a714a839
+
+
+
+
+
+
+
+
+

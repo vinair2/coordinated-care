@@ -16,9 +16,25 @@
 - User feedback
 - Two application “views” - “Care Provider” and “Administrator”
   
-# Screenshots
+# Demo Videos
+## Login
+https://github.com/user-attachments/assets/e1e5b823-443c-4ec6-b606-967bf3076858
+
+## Discussion and Comments
+https://github.com/user-attachments/assets/9970a3e4-6d04-41d2-a54f-794f85efb5bf
+
+## All Faculty and View Faculty
+https://github.com/user-attachments/assets/e81a0e22-a13f-44fb-92bd-99fb20bfa27b
+
+## Equipment
+https://github.com/user-attachments/assets/ff341973-858f-4650-88b1-90f3bcd69a4a
+
+## Edit Process
+https://github.com/user-attachments/assets/8cb4cec7-ea5d-420c-b424-9ac9a0675ec2
+
+## Profile, Settings, and Logout
+https://github.com/user-attachments/assets/fad4a218-ba28-4583-9fd1-ab39f9a7ffe3
 
 
-
-# Version
-Forked
+<!-- all processes, create new process, view process -->
+<!-- patients -->
